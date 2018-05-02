@@ -27,7 +27,7 @@ query='+'.join(query)
 url="https://www.google.co.in/search?q="+query+"&source=lnms&tbm=isch"
 print (url)
 #add the directory for your image here
-DIR="C:\\Users\\sihaywar\\Pictures"
+DIR="***YOUR PICTURE DIRECTORY HERE***"
 header={'User-Agent':"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10136"
 }
 
